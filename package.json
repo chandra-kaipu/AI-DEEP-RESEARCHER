@@ -1,0 +1,16 @@
+{
+  "name": "ai-deep-researcher",
+  "version": "1.0.0",
+  "description": "Production-grade generative AI Deep Research engine with live web search, trend analysis, dynamic mindmaps, and interactive visual reports.",
+  "scripts": {
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"yellow.bold,cyan.bold\" \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client && npm run build --prefix server",
+    "start": "node server/dist/index.js",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "author": "Google Antigravity Team",
+  "license": "MIT"
+}

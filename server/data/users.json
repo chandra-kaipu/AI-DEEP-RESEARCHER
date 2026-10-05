@@ -1,0 +1,71 @@
+[
+  {
+    "id": "usr_1790883347790_49c9e361",
+    "email": "student.demo@school.edu",
+    "name": "Alex Student",
+    "passwordHash": "afa1976b98656b03a826f39f8c245d9b48b139aa5484ab9e22e639dfba0228ed981b01f3bfa56cadc2298cf6e4050e304bb745d634dd41349c10e832a07b151e",
+    "salt": "f485eade9a6f6b749290f2c3039a9241",
+    "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=Alex%20Student",
+    "role": "student",
+    "gradeLevel": "high",
+    "interests": [
+      "Astrophysics",
+      "AI",
+      "Biology"
+    ],
+    "learningStats": {
+      "topicsExplored": 0,
+      "quizzesPassed": 0,
+      "totalFocusMinutes": 0
+    },
+    "savedDossiers": [],
+    "quizResults": [],
+    "createdAt": "2026-10-01T19:35:47.790Z"
+  },
+  {
+    "id": "usr_1790883413091_d45e697f",
+    "email": "learner.google@gmail.com",
+    "name": "Google Student",
+    "salt": "3f0d03176cc2dc2aefb7a6494fe9e3e3",
+    "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=Google%20Student",
+    "role": "student",
+    "gradeLevel": "high",
+    "interests": [
+      "Science",
+      "History",
+      "Artificial Intelligence",
+      "Nature"
+    ],
+    "learningStats": {
+      "topicsExplored": 0,
+      "quizzesPassed": 0,
+      "totalFocusMinutes": 0
+    },
+    "savedDossiers": [],
+    "quizResults": [],
+    "createdAt": "2026-10-01T19:36:53.091Z"
+  },
+  {
+    "id": "usr_1790883723964_7268eae3",
+    "email": "kaipuchandra18@gmail.com",
+    "name": "kaipuchandra18",
+    "salt": "f2ee2e3c4cf649b2bfc928cc414eb3cc",
+    "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=kaipuchandra18",
+    "role": "student",
+    "gradeLevel": "high",
+    "interests": [
+      "Science",
+      "History",
+      "Artificial Intelligence",
+      "Nature"
+    ],
+    "learningStats": {
+      "topicsExplored": 0,
+      "quizzesPassed": 0,
+      "totalFocusMinutes": 0
+    },
+    "savedDossiers": [],
+    "quizResults": [],
+    "createdAt": "2026-10-01T19:42:03.964Z"
+  }
+]
